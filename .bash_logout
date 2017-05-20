@@ -1,0 +1,1 @@
+pwd > /tmp/${LOGNAME}-lastpath
